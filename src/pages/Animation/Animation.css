@@ -27,7 +27,7 @@
 }
 
 #field {
-    background-image: url('./field.jpg');
+    background-image: url('src\assets\picture\field.jpg');
     margin: 10px;
     border-radius: 5px;
     background-size: 100%;
