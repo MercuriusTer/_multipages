@@ -17,7 +17,7 @@ function Home() {
             <Container className="mt-5">
                 <Row className="align-items-center">
                     <Col md={4} className="text-center">
-                        <Image src="/assets/stdempimg.jpg" roundedCircle fluid alt="Woradech Ardvichai" />
+                        <Image src="src/assets/stdempimg.jpg" roundedCircle fluid alt="Woradech Ardvichai" />
                     </Col>
                     <Col md={8}>
                         <h2>Hello, I'm Woradech Ardvichai!</h2>
