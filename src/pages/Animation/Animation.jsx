@@ -133,7 +133,7 @@ function Animation() {
                             top: y,
                             position: 'relative',
                             transform: `rotate(${angle}deg)`,
-                            backgroundImage: ballType !== 'None' ? `url('/_multipages/assets/${ballType.toLowerCase()}.png')` : 'none',
+                            backgroundImage: ballType !== 'None' ? `url('https://mercuriuster.github.io/_multipages/${ballType.toLowerCase()}.png')` : 'none',
                             backgroundSize: '115%',
                             backgroundPosition: 'center',
                         }}
