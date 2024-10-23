@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Container, Row, Col, Image, Button, Card, Modal } from 'react-bootstrap';
 
-import './home.css'
+import './Home.css'
 
 function Home() {
     // State to control the modal visibility

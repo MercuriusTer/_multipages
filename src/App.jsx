@@ -3,7 +3,7 @@ import { HashRouter, Routes, Route } from 'react-router-dom'
 
 import Layout from './layouts/Layout/Layout'
 
-import Home from './pages/home/home'
+import Home from './pages/Home/Home'
 import Components from './pages/Components/Components'
 import Todo from './pages/Todo/Todo'
 import Calculator from './pages/Calculator/Calculator'
