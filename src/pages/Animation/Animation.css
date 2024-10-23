@@ -38,7 +38,6 @@
 #ball {
     border-radius: 50%;
     background-color: rgb(172, 255, 255);
-    background-image: url('');
 }
 
 #control {
