@@ -133,7 +133,7 @@ function Animation() {
                             top: y,
                             position: 'relative',
                             transform: `rotate(${angle}deg)`,
-                            backgroundImage: ballType !== 'None' ? `url('C:\Users\Miwie Wasabi\Downloads\งานมหาลัย\CSI205\W12\_multipages\src\assets\ball\${ballType.toLowerCase()}.png')` : 'none',
+                            backgroundImage: ballType !== 'None' ? `url('../../assets/ball/${ballType.toLowerCase()}.png')` : 'none',
                             backgroundSize: '115%',
                             backgroundPosition: 'center',
                         }}
