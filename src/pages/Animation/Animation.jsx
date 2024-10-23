@@ -133,7 +133,7 @@ function Animation() {
                             top: y,
                             position: 'relative',
                             transform: `rotate(${angle}deg)`,
-                            backgroundImage: ballType !== 'None' ? `url('/_multipages/src/assets/picture/ball/${ballType.toLowerCase()}.png')` : 'none',
+                            backgroundImage: ballType !== 'None' ? `url('/assets/ball/${ballType.toLowerCase()}.png')` : 'none',
                             backgroundSize: '115%',
                             backgroundPosition: 'center',
                         }}
