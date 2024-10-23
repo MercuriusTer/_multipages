@@ -1,0 +1,36 @@
+.login-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-container h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: bold;
+}
+
+.login-container .form-control {
+    padding: 10px;
+    font-size: 16px;
+}
+
+.button-container {
+    text-align: center;
+}
+
+.button-container button {
+    transition: background-color 0.3s ease;
+    width: 40%;
+    margin: 0 0.5rem;
+}
+
+.login-container .alert {
+    margin-top: 20px;
+    text-align: center;
+    color: red;
+}

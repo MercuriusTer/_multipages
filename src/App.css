@@ -1,0 +1,6 @@
+.App-container{
+    width: 1020px;
+    border: 1px dashed black;
+    margin: auto;
+    padding: 1rem;
+}
