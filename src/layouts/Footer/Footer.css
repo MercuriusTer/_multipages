@@ -1,0 +1,7 @@
+.footer-container {
+  text-align: center;
+  margin-top: 1rem;
+  span {
+    margin: 0 0.5rem;
+  }
+}

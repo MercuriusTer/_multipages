@@ -1,0 +1,15 @@
+.counter-wrapper{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1rem;
+    background-color: azure;
+}
+
+.counter-title{
+    color: red;
+}
+
+.counter-value{
+    margin: 0 1rem;
+    font-size: 2rem;
+}

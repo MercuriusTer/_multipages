@@ -1,0 +1,43 @@
+.animation-container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(255, 237, 230);
+  border-radius: 10px;
+  box-shadow: 0 0 0.5rem rgb(255, 157, 101);
+  padding: 0.5rem;
+  margin: auto;
+  text-align: center;
+}
+
+.animation-title {
+  text-align: center;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+#container {
+  position: relative;
+  margin: auto;
+}
+
+#run {
+  margin-right: 10px;
+}
+
+#field {
+  background-image: url("../../assets/field.jpg");
+  margin: 10px;
+  border-radius: 5px;
+  background-size: 100%;
+  background-position: center;
+  position: "relative";
+}
+
+#ball {
+  border-radius: 50%;
+  background-color: rgb(172, 255, 255);
+}
+
+#control {
+  margin: 10px;
+}
